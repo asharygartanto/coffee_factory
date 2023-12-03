@@ -1,6 +1,5 @@
 # coffee_factory_test
-# Ashary Gartanto test project
-# ashary.gartanto@gmail.com
+
 A new Flutter project to Create order Coffee from constant list.
 feateures :
 - List coffee from constant list.
